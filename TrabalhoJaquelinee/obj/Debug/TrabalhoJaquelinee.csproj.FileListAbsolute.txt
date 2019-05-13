@@ -1,0 +1,7 @@
+C:\Users\Erick\Desktop\TrabalhoJaquelinee\TrabalhoJaquelinee\obj\Debug\TrabalhoJaquelinee.csprojAssemblyReference.cache
+C:\Users\Erick\Desktop\TrabalhoJaquelinee\TrabalhoJaquelinee\obj\Debug\TrabalhoJaquelinee.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\TrabalhoJaquelinee\TrabalhoJaquelinee\bin\Debug\TrabalhoJaquelinee.exe.config
+C:\Users\Erick\Desktop\TrabalhoJaquelinee\TrabalhoJaquelinee\bin\Debug\TrabalhoJaquelinee.exe
+C:\Users\Erick\Desktop\TrabalhoJaquelinee\TrabalhoJaquelinee\bin\Debug\TrabalhoJaquelinee.pdb
+C:\Users\Erick\Desktop\TrabalhoJaquelinee\TrabalhoJaquelinee\obj\Debug\TrabalhoJaquelinee.exe
+C:\Users\Erick\Desktop\TrabalhoJaquelinee\TrabalhoJaquelinee\obj\Debug\TrabalhoJaquelinee.pdb
